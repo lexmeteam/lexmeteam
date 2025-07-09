@@ -6,7 +6,7 @@
 
   [![Profile Views](https://komarev.com/ghpvc/?username=lexmeteam&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/lexmeteam)
   [![GitHub Followers](https://img.shields.io/github/followers/lexmeteam?logo=github&style=for-the-badge&color=58A6FF&labelColor=555555&label=FOLLOWERS)](https://github.com/lexmeteam?tab=followers)
-  [![GitHub Stars](https://img.shields.io/github/stars/lexmeteam?logo=github&style=for-the-badge&color=555555&labelColor=58A6FF&label=STARS)](https://github.com/lexmeteam?tab=repositories)
+  [![GitHub Stars](https://img.shields.io/github/stars/lexmeteam?logo=github&style=for-the-badge&color=58A6FF&labelColor=555555&label=STARS)](https://github.com/lexmeteam?tab=repositories)
   
   ### 🌍 Find Me Around The Web
   
