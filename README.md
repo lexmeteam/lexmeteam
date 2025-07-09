@@ -30,7 +30,7 @@
     
   ### 💻 Programming Languages
   
-  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8c00ff)](#)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F7DF1E)](#)
   [![LUA](https://img.shields.io/badge/LUA-58A6FF?style=for-the-badge&logo=lua&logoColor=white&labelColor=58A6FF)](#)
   
   ### 🎨 Frontend Technologies
