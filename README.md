@@ -1,4 +1,4 @@
-<div align="center">![Welcome Banner](WelcomeBanner.gif)</div>
+[# <div align="center">![Welcome Banner](WelcomeBanner.gif)</div>
 
 <div align="center">
   
@@ -50,4 +50,4 @@
   [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=8c00ff)](#)
   [![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=8c00ff)](#)
 
-  </details>
+  </details> #]
