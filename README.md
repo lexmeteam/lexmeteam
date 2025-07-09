@@ -1,4 +1,4 @@
-[# <div align="center">![Welcome Banner](WelcomeBanner.gif)</div>
+<div align="center">![Welcome Banner](WelcomeBanner.gif)</div>
 
 <div align="center">
   
