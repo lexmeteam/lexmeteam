@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79315&width=435&lines=Welcome+To+Lexme+Store+GitHub;Full+Stack+Dev;Vist+Us+At+%3A+.gg%2FZGH3ubzWHw)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8c00ff&width=435&lines=Welcome+To+Lexme+Store+GitHub;Full+Stack+Dev;Vist+Us+At+%3A+.gg%2FZGH3ubzWHw)](https://git.io/typing-svg)
 
   [![Profile Views](https://komarev.com/ghpvc/?username=elitecodestudio&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/elitecodestudio)
   [![GitHub Followers](https://img.shields.io/github/followers/elitecodestudio?logo=github&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=FOLLOWERS)](https://github.com/elitecodestudio?tab=followers)
