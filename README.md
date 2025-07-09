@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8c00ff&width=435&lines=Welcome+To+Lexme+Store+GitHub;Full+Stack+Dev;Vist+Us+At+%3A+.gg%2FZGH3ubzWHw)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8c00ff&width=435&lines=Welcome+To+Lexme+Store+GitHub;Full+Stack+Dev;Vist+Us+At+%3A+.gg%2FLEE)](https://git.io/typing-svg)
 
   [![Profile Views](https://komarev.com/ghpvc/?username=lexmeteam&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/lexmeteam)
   [![GitHub Followers](https://img.shields.io/github/followers/lexmeteam?logo=github&style=for-the-badge&color=58A6FF&labelColor=8c00ff&label=FOLLOWERS)](https://github.com/lexmeteam?tab=followers)
@@ -51,4 +51,4 @@
   [![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=8c00ff)](#)
 
   </details>
-](https://elitecode.xyz)
+](https://canary.discord.com/servers/lexme-team-tm-1233316459304849418)
