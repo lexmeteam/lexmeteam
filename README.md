@@ -31,7 +31,7 @@
   ### 💻 Programming Languages
   
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8c00ff)](#)
-  [![LUA](https://img.shields.io/badge/LUA-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=8c00ff)](#)
+  [![LUA](https://img.shields.io/badge/LUA-777BB4?style=for-the-badge&logo=lua&logoColor=white&labelColor=8c00ff)](#)
   
   ### 🎨 Frontend Technologies
   
@@ -44,6 +44,5 @@
   ### 🔧 Development Tools
   
   [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=8c00ff)](#)
-  [![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=8c00ff)](#)
 
   </details> 
