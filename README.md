@@ -1,5 +1,4 @@
-[# 
-<div align="center">![Welcome Banner](banner_Discord.gif)</div>
+# <div align="center">![Welcome Banner](banner_Discord.gif)</div>
 
 <div align="center">
   
@@ -52,4 +51,3 @@
   [![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=8c00ff)](#)
 
   </details> 
-  #]
