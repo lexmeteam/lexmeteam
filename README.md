@@ -13,7 +13,7 @@
   <table>
     <tr>
       <td align="center" width="96">
-        <a href="https://elitecode.xyz">
+        <a href="https://canary.discord.com/servers/lexme-team-tm-1233316459304849418">
           <img src="https://img.shields.io/badge/Website-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
         </a>
       </td>
