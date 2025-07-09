@@ -51,4 +51,3 @@
   [![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=8c00ff)](#)
 
   </details>
-](https://canary.discord.com/servers/lexme-team-tm-1233316459304849418)
