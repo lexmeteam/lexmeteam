@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8c00ff&width=435&lines=Welcome+To+Lexme+Store+GitHub;Full+Stack+Dev;Vist+Us+At+%3A+.gg%2FLEE)](https://git.io/typing-svg)
 
   [![Profile Views](https://komarev.com/ghpvc/?username=lexmeteam&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/lexmeteam)
-  [![GitHub Followers](https://img.shields.io/github/followers/lexmeteam?logo=github&style=for-the-badge&color=58A6FF&labelColor=8c00ff&label=FOLLOWERS)](https://github.com/lexmeteam?tab=followers)
+  [![GitHub Followers](https://img.shields.io/github/followers/lexmeteam?logo=github&style=for-the-badge&color=58A6FF&labelColor=58A6FF&label=FOLLOWERS)](https://github.com/lexmeteam?tab=followers)
   [![GitHub Stars](https://img.shields.io/github/stars/lexmeteam?logo=github&style=for-the-badge&color=58A6FF&labelColor=8c00ff&label=STARS)](https://github.com/lexmeteam?tab=repositories)
   
   ### 🌍 Find Me Around The Web
@@ -39,7 +39,7 @@
   [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)](#)  
   ### ⚙️ Backend & Database
   
-  [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8c00ff)](#)
+  [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933)](#)
   
   ### 🔧 Development Tools
   
