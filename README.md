@@ -27,17 +27,14 @@
 
   <details open>
     <summary><h2>🛠️ Our Skills</h2></summary>
-    
-  ### 💻 Programming Languages
-  
-  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F7DF1E)](#)
-  [![LUA](https://img.shields.io/badge/LUA-58A6FF?style=for-the-badge&logo=lua&logoColor=white&labelColor=58A6FF)](#)
   
   ### 🎨 Frontend Technologies
   
   [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)](#)
   [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)](#)  
-  ### ⚙️ Backend & Database
+  ### ⚙️ Backend
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F7DF1E)](#)
+  [![LUA](https://img.shields.io/badge/LUA-58A6FF?style=for-the-badge&logo=lua&logoColor=white&labelColor=58A6FF)](#)
   
   [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933)](#)
   
